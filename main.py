@@ -9,7 +9,7 @@ logging.basicConfig (
     datefmt='%Y-%m-%d %H:%M:%S'
 )
 
-DiscordToken = 'NzYxNDgxNjYzODAwNTQxMjE0.X3bPEA.z0DqDKN2dvPk2LK6BwR7R9wiJvU'
+DiscordToken = 'InsertTokenHere'
 bot = commands.Bot(command_prefix='+')
 camellia = Color("#d47fb9")
 colors = list(camellia.range_to(Color("#000000"), 100))
